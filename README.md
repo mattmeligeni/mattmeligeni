@@ -18,12 +18,13 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/mattmeligeni/StatalePlus"><img src="https://raw.githubusercontent.com/mattmeligeni/StatalePlus/main/Grafica/Screenshot/riassunto.png" alt="Statale Plus"></a>
-      <h3><a href="https://github.com/mattmeligeni/StatalePlus">Statale Plus</a></h3>
-      Student app for the University of Milan: four university systems behind one sign-in, plus lecture recording
-      with <b>on-device transcription</b> (NVIDIA Parakeet on the Neural Engine, also in the background) and
-      <b>Apple Intelligence</b> summaries. In beta on TestFlight.<br>
-      <sub>Swift 6 · SwiftUI · Core ML · Foundation Models</sub>
+      <a href="https://www.mattiameligeni.com/#/progetti/statale-plus"><img src="https://www.mattiameligeni.com/img/statale-riassunto.webp" alt="Statale Plus"></a>
+      <h3><a href="https://www.mattiameligeni.com/#/progetti/statale-plus">Statale Plus</a></h3>
+      One portal for University of Milan students: it makes four university systems that don't talk to each other
+      (UNIMIA, SIFA, Ariel, timetables and attendance) work together behind one sign-in, with exam sign-up, fees and
+      student support, plus lecture recording with <b>on-device transcription</b> and <b>Apple Intelligence</b> or
+      <b>Qwen</b> summaries. In beta on TestFlight.<br>
+      <sub>Commercial project · closed source · Swift 6 · SwiftUI · Core ML · MLX</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/mattmeligeni/Trainly"><img src="https://raw.githubusercontent.com/mattmeligeni/Trainly/main/Screens/IMG_1584.jpeg" alt="Trainly"></a>
