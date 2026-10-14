@@ -50,7 +50,6 @@
 | --- | --- |
 | **[milano-housing](https://github.com/mattmeligeni/milano-housing)** | Automated valuation model for Milan homes: ~19k listings, geo-features, CatBoost with **R² 0.92** under grouped validation, SHAP, deal detector |
 | **[fantacalcio-analytics](https://github.com/mattmeligeni/fantacalcio-analytics)** | Fantasy-football decision support: pure rules engine, two-stage projections, xG source calibration, auction price list, tested on six seasons |
-| **[unical-esse3-client](https://github.com/mattmeligeni/unical-esse3-client)** | Python prototype of the Esse3 API client behind MyUnical (archived) |
 
 ## Toolbox
 
