@@ -13,18 +13,19 @@
 
 <p align="center"><a href="README.md">English</a> · <b>Italiano</b></p>
 
-## App iOS
+## App
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <a href="https://www.mattiameligeni.com/#/progetti/statale-plus"><img src="https://www.mattiameligeni.com/img/statale-riassunto.webp" alt="Statale Plus"></a>
       <h3><a href="https://www.mattiameligeni.com/#/progetti/statale-plus">Statale Plus</a></h3>
-      Il portale unico per chi studia alla Statale di Milano: fa dialogare quattro sistemi dell'Ateneo che oggi non
-      si parlano (UNIMIA, SIFA, Ariel, orari e presenze) con un solo accesso, iscrizione agli appelli, tasse e
-      diritto allo studio, più la registrazione delle lezioni con <b>trascrizione sul dispositivo</b> e riassunti con
-      <b>Apple Intelligence</b> o <b>Qwen</b>. In beta su TestFlight.<br>
-      <sub>Progetto commerciale · codice chiuso · Swift 6 · SwiftUI · Core ML · MLX</sub>
+      Il portale unico per chi studia alla Statale di Milano, con <b>due app native per iPhone e Android</b>: fa
+      dialogare quattro sistemi dell'Ateneo che oggi non si parlano (UNIMIA, SIFA, Ariel, orari e presenze) con un solo
+      accesso (credenziali di Ateneo o SPID), iscrizione agli appelli, autocertificazioni, tasse e diritto allo studio,
+      più la registrazione delle lezioni con <b>trascrizione sul dispositivo</b> e riassunti. In beta su TestFlight e
+      Google Play.<br>
+      <sub>Progetto commerciale · codice chiuso · Swift 6 · SwiftUI · Core ML · MLX · Kotlin · Jetpack Compose</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/mattmeligeni/Trainly"><img src="https://raw.githubusercontent.com/mattmeligeni/Trainly/main/Screens/IMG_1584.jpeg" alt="Trainly"></a>
