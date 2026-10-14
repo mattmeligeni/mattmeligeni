@@ -49,7 +49,6 @@
 | --- | --- |
 | **[milano-housing](https://github.com/mattmeligeni/milano-housing)** | Automated valuation model for Milan homes: ~19k listings, geo-features, CatBoost with **R² 0.92** under grouped validation, SHAP, deal detector |
 | **[fantacalcio-analytics](https://github.com/mattmeligeni/fantacalcio-analytics)** | Fantasy-football decision support: pure rules engine, two-stage projections, xG source calibration, auction price list, tested on six seasons |
-| **[leave-planner](https://github.com/mattmeligeni/leave-planner)** | Optimises Italian holidays, weekends and paid leave into the longest breaks; Python and JavaScript, calendar export |
 | **[unical-esse3-client](https://github.com/mattmeligeni/unical-esse3-client)** | Python prototype of the Esse3 API client behind MyUnical (archived) |
 
 ## Toolbox
