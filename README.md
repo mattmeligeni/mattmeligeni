@@ -48,7 +48,7 @@
 
 | Project | What it shows |
 | --- | --- |
-| **[milano-housing](https://github.com/mattmeligeni/milano-housing)** | Automated valuation model for Milan homes: ~19k listings, geo-features, CatBoost with **R² 0.92** under grouped validation, SHAP, deal detector |
+| **[milano-housing](https://github.com/mattmeligeni/milano-housing)** | Automated valuation model for Milan homes: ~19k listings, geo-features, CatBoost with **R² 0.92** under grouped validation, SHAP, deal detector · **[live demo](https://www.mattiameligeni.com/#/progetti/milano-housing)** |
 | **[fantacalcio-analytics](https://github.com/mattmeligeni/fantacalcio-analytics)** | Fantasy-football decision support: pure rules engine, two-stage projections, xG source calibration, auction price list, tested on six seasons |
 
 ## Toolbox

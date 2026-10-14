@@ -49,7 +49,7 @@
 
 | Progetto | Cosa mostra |
 | --- | --- |
-| **[milano-housing](https://github.com/mattmeligeni/milano-housing)** | Modello di valutazione automatica delle case di Milano: ~19.000 annunci, feature geografiche, CatBoost con **R² 0,92** in validazione a gruppi, SHAP, rilevatore di occasioni |
+| **[milano-housing](https://github.com/mattmeligeni/milano-housing)** | Modello di valutazione automatica delle case di Milano: ~19.000 annunci, feature geografiche, CatBoost con **R² 0,92** in validazione a gruppi, SHAP, rilevatore di occasioni · **[demo dal vivo](https://www.mattiameligeni.com/#/progetti/milano-housing)** |
 | **[fantacalcio-analytics](https://github.com/mattmeligeni/fantacalcio-analytics)** | Supporto decisionale per il fantacalcio: motore di regolamento, proiezioni a due stadi, calibrazione delle fonti xG, listino d'asta, testato su sei stagioni |
 
 ## Strumenti
