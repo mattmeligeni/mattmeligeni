@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://mattiameligeni.com"><img src="https://img.shields.io/badge/mattiameligeni.com-1d3f7a?logo=safari&logoColor=white" alt="Website"></a>
-  <a href="mailto:info@mattiameligeni.com"><img src="https://img.shields.io/badge/info@mattiameligeni.com-1d3f7a?logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="mailto:dev@mattiameligeni.com"><img src="https://img.shields.io/badge/dev@mattiameligeni.com-1d3f7a?logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center"><b>English</b> · <a href="README.it.md">Italiano</a></p>
